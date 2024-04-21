@@ -36,4 +36,10 @@ Proceed with running the rest of your notebook cells once the installations are 
 * The main conclusion of the analysis is:
 > The accessibility of metro stations is directly related with income. Other analysis could be done with train, bus, bicycle, etc which is available at Geosampa. Instead of income, it could be used age, sex, race and multiple other socioeconomical varibles avaliable at IBGE.
 
+![fig1](images/fig1.png)
+
+![fig2](images/fig2.png)
+
+We can clearly evaluate that when considering people which can access metro stations easily (up to 30 minutes on foot), we observe higher concentration of high income (>10 minimum wages) in those census sectors.
+
 * Multiple data and variables were found in those data bases. Just a few of them were used in this work as a sample of what is possible to do with this data and tools.
